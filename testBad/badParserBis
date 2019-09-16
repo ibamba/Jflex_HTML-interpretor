@@ -1,0 +1,13 @@
+\set{#FFFFFF}{blanc}
+\abb{ppp}{perlimpimpim}
+
+\begindoc
+Erreur provenant de la déclaration d'abréviation. Format de l'abréviation non respecté.
+Cette erreur est détecté dans le Parser, lors de l'analyse lexical.
+\beginenum
+\item
+\item 
+\item 
+\endenum
+\bf{\it{Oups}} !!!
+\enddoc

@@ -1,0 +1,7 @@
+\abb{\Mr}{Monsieur}
+
+\begindoc
+Salut \Mr you. How are you doing ? Are you \mr E.M ! ?
+Il y a erreur dans l'utilisation de l'abbréviation. \mr n'a pas été déclaré. 
+Cette errerur ne sera détectée que lors de la compilation.
+\enddoc

@@ -1,0 +1,14 @@
+\set{#FFFFFF}{blanc}
+\set{#000000}{noir}
+
+\begindoc
+
+\beginenum
+\item \it{\bf{\couleur{noir}{Je suis Noir}}} !
+\item \it{\bf{\couleur{blanc}{Je suis Blanc}}} !
+\item \it{\bf{\couleur{Jaune}{Je suis Jaune}}} !
+\endenum
+\bf{\it{Oups}} !!!
+Erreur : Jaune n'a pas été déclaré comme variable couleur.
+Cette erreur ne sera détecté que lors de la compilation.
+\enddoc
