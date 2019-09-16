@@ -1,0 +1,33 @@
+Projet ADS4 Info : interpréteur de texte en html
+
+Ce repertoire dans lequel vous vous trouvez, celui de notre projet, contient cinq types de documents :
+- Ce document-ci que vous êtes en train de lire : vous explique le contenu du repertoire et comment l'utiliser
+- Le document "Rapport.pdf" : contient les explications et le fonctionnement du programme
+- Les fichiers sources : l'ensemble des fichiers .java et le fichier "text.flex" qui contiennent les codes du programme intégral
+- Les fichiers test qui sont dans les repertoires "testBad" et "testGood"
+	-> "testBad" contient quatre exemples de mauvais fichiers ne pouvant pas être bien exécuter par le programme
+	-> "testGood" contient trois fichiers bien ecrit, pouvant être exécutés sans probleme
+- Le fichier "Makefile" : permet la compilation du programme. Il compile tous les fichiers sources.
+
+Compilation du programme, tapez dans le terminal :
+	make
+
+Exécution du programme, tapez :
+	java Main cheminFichier
+Avec cheminFichier le chemin du fichier écrit dans le langage SimpleText
+
+Pour utiliser le programme et tester son exécution, vous pouvez :
+- tapez dans le terminal le code donné ci-dessus
+- saisir dans le terminal :
+		java Main testGood/goodNUM
+		avec 1<=NUM<=3
+	Pour les bons tests qui marchent
+- saisir :
+		java Main testBad/badParser
+		java Main testBad/badParserBis
+		java Main testBad/badCompil
+		java Main testBad/badCompilBis
+	Pour les mauvais tests qui provoquent des exceptions
+
+
+			"Merci pour votre attention. Bonne vérification à vous and that chance will be with you !!!"
