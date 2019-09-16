@@ -1,0 +1,28 @@
+\set{#FF0000}{rouge}
+\abb{\up7d}{\bf{\couleur{bleu}{Universite Paris Diderot} - \couleur{rouge}{Paris 7}}}
+\set{#0000FF}{bleu}
+\abb{\jssok}{\it{\bf{"Je Ne Suis Pas Venu Ici Pour Souffrir Ok?!"}}}
+\set{#FF00FF}{fuchsia}
+
+\begindoc
+La ville de \bf{Paris} est la deuxieme ville etudiante au monde. Elle contient 13 universites a son nom dont 7 dans son enceinte. On peut en citer entre-autre :
+\beginenum
+\item \bf{L'universite Pierre et Marie Curie}
+\item \bf{Les universites Paris Sorbonne} 
+\beginenum
+\item \it{Sorbone}
+\item \it{Pantheon-Assas}
+\item \it{Sorbone Nouvelle}
+\endenum
+\item \bf{L'universite Paris Descartes}
+\item \bf{L'universite Paris Dauphine}
+\item \bf{L'universite Paris Diderot}
+\endenum
+
+\linebreak
+L'\up7d est une universite pluridisciplinaire situe dans le treizieme arrondissement dans le sud de la ville. Elle est l'une des meilleures universites de la capitale. Et pour cela, l'enseignement y est de haut niveau tel que celui de l'\couleur{fuchsia}{\it{informatique}} qui ne laisse presqu'aucun temps a ses etudiants pour la distraction. Entre cours, tp et d'innombrables projets, on peut dire qu'ils sont... 
+\linebreak
+\linebreak
+A vrai dire Hey \for{3}{\jssok \linebreak}
+\for{3}{\bf{\it{Ok ??!}} \linebreak}
+\enddoc

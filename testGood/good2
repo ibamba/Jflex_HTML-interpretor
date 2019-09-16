@@ -1,0 +1,14 @@
+\abb{\RGB}{\bf{Red Green Blue}}
+
+\begindoc
+Le systeme \RGB utilise en informatique distingue 3 couleurs \it{primaires}:
+\beginenum
+\item \couleur{#FF0000}{\it{\bf{rouge}}} code en hexadecimal \bf{FF0000};
+\item \couleur{#00FF00}{\it{\bf{vert}}} code \bf{00FF00};
+\item \couleur{#0000FF}{\it{\bf{bleu}}} code \bf{0000FF};
+\endenum
+Toute autre couleur etant codee par une combinaison de ces trois couleurs.
+\linebreak
+\linebreak
+\bf{Utilisation en JAVA}
+\enddoc
